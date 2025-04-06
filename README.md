@@ -1,2 +1,0 @@
-# fastapi-docker
- Dockerized FastAPI
